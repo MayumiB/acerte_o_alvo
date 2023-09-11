@@ -1,2 +1,3 @@
-# acerte_o_alvo
-# acerte_o_alvo
+# Acertando o alvo
+Esse projeto foi desenvolvido para matéria de DevOps
+
